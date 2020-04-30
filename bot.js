@@ -101,4 +101,4 @@ client.on('ready', () => {//new ready event
   }, 5000); //the rainbow time
 
 })         
-client.login(process.env.TOKEN);
+client.login(process.env.NjI0NTI1MzQwNTU0ODIxNjQz.XqpYYQ.tf7K_uC6kzWWslKN4PIfA1oPeD0);
